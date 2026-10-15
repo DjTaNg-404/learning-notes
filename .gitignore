@@ -1,0 +1,5 @@
+.env
+*.sqlite*
+credentials.json
+secrets.json
+.DS_Store
